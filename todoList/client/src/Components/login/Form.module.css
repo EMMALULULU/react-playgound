@@ -1,0 +1,30 @@
+.input {
+  margin: 20px auto;
+  outline: none;
+  width: 80%;
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(105, 99, 99);
+  background-color: #fffffc;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.container {
+  background: linear-gradient(to right bottom, #f8edeb, #fdf4ec);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper {
+  background-color: #f5ccc4;
+  min-width: 450px;
+  min-height: 350px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 3px 6px 40px #000;
+  margin-bottom: 10px;
+}
